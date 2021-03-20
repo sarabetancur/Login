@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginSabado</string>
+    <string name="ayudaHoras">Digite el número de horas</string>
+    <string name="calcular">Calcular Salario</string>
+</resources>
